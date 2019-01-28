@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="strcase",
-    version="0.0.3",
+    version="1.0.0",
     author="Fall1ngStar",
     description="Convert string to specific case",
     long_description=long_description,
